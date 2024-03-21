@@ -1,0 +1,3 @@
+git branch -m main master   # Renaming the local branch from "main" to "master"
+ git commit -m "Your commit message"
+git push -u origin master  # Pushing changes to the remote "master" branch

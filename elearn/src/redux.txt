@@ -1,0 +1,15 @@
+npm install react-redux
+
+# NPM
+npm install @reduxjs/toolkit
+
+# Yarn
+yarn add @reduxjs/toolkit
+
+
+# NPM
+npm install redux
+
+# Yarn
+yarn add redux
+
